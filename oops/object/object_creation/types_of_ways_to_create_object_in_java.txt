@@ -1,0 +1,4 @@
+different ways to create an object in java:-
+
+1)by using new keyword
+2)by using newinstance() 
