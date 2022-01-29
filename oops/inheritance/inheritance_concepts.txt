@@ -1,0 +1,30 @@
+inhetitance is a mechanasim in which one object accires the properties and behaviors of the parent object
+inheritance is also called as parent-c
+
+like:
+parent(dad,mom)
+    |
+    |
+    |
+   \|/
+child_pr_sub_class(childern)
+
+types of inheritance:
+  there are 6 types of inheritance,they are
+  1)single inheritance
+  2)multiple inheritance
+  3)multi_level inheritance
+  4)multipath inheritance
+  5)hierarchical inheritance
+  6)hybrid inheritnce
+
+single inheritance:-
+===================
+when a class that inheritsanopther single class ,it is known as single inheritance
+
+syntax of single inheritance:-
+============================
+class child_class_or_sun_class  extends  parent_class_or_deriverd_class
+    {
+         code is witten here
+    }
