@@ -1,0 +1,15 @@
+arraylist is used to create array in the dynamic size 
+arraylist is dynamic size 
+arraylist have rich library functions 
+
+
+to import the arraylist 
+import java.util.ArrayList;
+ArrayList <integer> al = new ArrayList <integer>();//in the brackets 
+al.add(10);
+al.add(20);
+al.add(30);
+al.add(40);
+al.add(50);
+System.out.println(al)
+//add finction will add the int at the wend of the array 
